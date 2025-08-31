@@ -19,13 +19,13 @@ Node.js: A JavaScript runtime that includes npm (Node Package Manager) for manag
 1. Clone the Repository
 Open your terminal (Command Prompt on Windows, or Terminal on macOS/Linux) and run the following command to download the project files:
 ```
-git clone https://github.com/sharminakthar/App.git
+git clone https://github.com/sharminakthar/RewardsApp.git
 ```
 
 2. Navigate to the Project Directory
 Change into the folder you just downloaded:
 ```
-cd App
+cd RewardsApp
 ```
 
 3. Set up a Local Server
